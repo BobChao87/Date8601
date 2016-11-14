@@ -1,0 +1,30 @@
+{
+  "name": "date8601",
+  "version": "0.0.1",
+  "description": "The ECMAScript Date API plus every output type and customization available in ISO 8601.",
+  "main": "dist/date8601.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BobChao87/Date8601.git"
+  },
+  "keywords": [
+    "Date",
+    "ISO8601"
+  ],
+  "author": "BobChao87",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BobChao87/Date8601/issues"
+  },
+  "homepage": "https://github.com/BobChao87/Date8601#readme",
+  "devDependencies": {
+    "eslint": "^3.10.0",
+    "eslint-config-google": "^0.7.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
